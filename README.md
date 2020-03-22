@@ -14,4 +14,4 @@ The house price is determined by some factors like
 The physical attributes of the house such as the number of bedrooms, the number of bathrooms, the surface of the house, property type, and its location are information that is directly accessible from the dataset.
 Instead, the house-features can (sometimes only indirectly) be inferred from the house-description, house-facility, house-features and house-image data.
 
-The notebook shows how to open and use the features to predict the house price.
+The notebook shows how to open and use the features to predict the house price.  The dataset consists of 14 zip files: **datatset_csv.zip**  includes the numeric/text features for the train and text csv files;  **datase01.zip,...datase13.zip** include the frontal images of the houses (13 files, ~24MB, for a total of 300MB). 
